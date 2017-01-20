@@ -6,7 +6,6 @@ var myArray =
         fistname: 'Sébastien',
         age: '23',
         kind: 'm',
-        work: 'Mannequin',
         profession: 'Footballeur',
         mother : 'Cathy',
         father : 'Williams',
@@ -19,16 +18,26 @@ var myArray =
         fistname: 'Cathy',
         age: '45',
         kind: 'f',
-        work: 'Mere au foyer',
-        profession: 'Footballeur',
+        profession: 'Mere au foyer',
         mother : 'Ginette',
         father : 'Robert',
         brothers : 'Louis', 'Jean',
         sisters : 'Catherine',
         profilPicture: url('../img/cathy.jpg')
     },
-    
-    // et ainsi de suite…
+      {
+         name: 'Miller',
+        fistname: 'Pharell',
+        age: '17', 
+        kind: 'm',
+        profession: 'Etudiant',
+        mother : 'Ginette',
+        father : 'Robert',
+        brothers : 'Louis', 'Jean',
+        sisters : 'Catherine',
+        profilPicture: url('../img/cathy.jpg')
+    },
+
 
 ];
 
