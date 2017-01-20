@@ -31,10 +31,10 @@ var myArray =
         age: '17', 
         kind: 'm',
         profession: 'Etudiant',
-        mother : 'Ginette',
-        father : 'Robert',
-        brothers : 'Louis', 'Jean',
-        sisters : 'Catherine',
+        mother : 'Cathy',
+        father : 'Williams',
+        brothers : 'Sebastien', 'Kaïs', 'Khalil',
+        sisters : 'Sirine', 'Shaylissa',
         profilPicture: url('../img/cathy.jpg')
     },
 
