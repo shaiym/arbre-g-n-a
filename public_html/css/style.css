@@ -12,7 +12,7 @@ url(http://fonts.gstatic.com/s/passionone/v6/fY6k21F1QT2c_Oc3HRNDwobN6UDyHWBl620
 
 
 .banniere {
-font-family:'Arial sans regular',cursive;
+font-family:'Verdana sans regular',cursive;
 animation:fond 9s infinite linear;
 -webkit-animation:fond 1s infinite linear;
 width:800px;
@@ -94,3 +94,44 @@ to{-webkit-transform:translatey(0) scale(1);opacity:1}}
 0%{-webkit-transform:translatex(100%)}
 80%{-webkit-transform:translatex(-10%)}
 100%{visibility:visible;-webkit-transform:translatex(0)}}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li a {
+    display: block;
+    width: 60px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+} 
+
+li a {
+    display: block;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: #555;
+    color: white;
+}
